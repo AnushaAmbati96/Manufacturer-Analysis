@@ -1,4 +1,4 @@
-# Manufacturer-Analysis
+# Manufacturer-Analysis- Power Bi
 
 Goal:
 Understand, analyze and visualize the revenue, growth/drop trend of different manufacturers across different countries
